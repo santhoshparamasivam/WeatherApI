@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "847367196503",
+    "firebase_url": "https://signapp-d9531.firebaseio.com",
+    "project_id": "signapp-d9531",
+    "storage_bucket": "signapp-d9531.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847367196503:android:a2d57b1ae68f1e82387812",
+        "android_client_info": {
+          "package_name": "com.example.weatherapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847367196503-k4l9t99uqm6q5sht49isl4fpq6mq4aqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVzfd_hSmn3zfGc7ldi57qxk5JzTAbtLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847367196503-k4l9t99uqm6q5sht49isl4fpq6mq4aqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
